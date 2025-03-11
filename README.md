@@ -38,7 +38,7 @@ CodeGenie can be used in various software development scenarios, including:
 
 ## Workflow Diagram
 
-<img src="images/Workflow.jpeg" alt="My Image" width="500" height="300">
+<img src="images/Workflow.jpg" alt="My Image" width="500" height="300">
 
 ## Research Papers
 
